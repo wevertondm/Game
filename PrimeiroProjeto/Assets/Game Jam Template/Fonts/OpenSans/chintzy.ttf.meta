@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df8f731f0ffaf814b9e5718ad99c960d
+timeCreated: 1495753628
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chintzy CPU BRK
+  fontNames:
+  - Chintzy CPU BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
